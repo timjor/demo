@@ -1,0 +1,1 @@
+create Bård sin tabell
